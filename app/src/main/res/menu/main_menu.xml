@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <item android:id="@+id/firstFragment"
+     android:icon="@drawable/ic_circle_left"
+     android:title="First" android:orderInCategory="0"/>
+ <item android:id="@+id/thirdFragment"
+     android:icon="@drawable/ic_circle_up"
+     android:title="Third" android:orderInCategory="1"/>
+ <item android:id="@+id/secondFragment"
+     android:icon="@drawable/ic_circle_right"
+     android:title="Second" android:orderInCategory="2"/>
+</menu>
